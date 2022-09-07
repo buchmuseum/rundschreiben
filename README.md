@@ -1,0 +1,2 @@
+# rundschreiben
+Import der Erschließungsdaten der Geschäftsrundschreiben des Buchhandelsarchivs der Börsenvereinsbibliothek
