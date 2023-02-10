@@ -3,32 +3,32 @@
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1892
-1110 01.10.1892$4ezth
+1100 1861
+1110 03.09.1861$4ezth
 1130 !040445224!
 1131 !040082407!
 1132 a1-analog;a2-druck;f1-text;f2-blatt
 1500 /1ger
 1700 /1XA-DXDE
-3100 J. Velten$BVerfasser$4aut
-3010 Velten, Sigmund$BVerfasser$4aut
-4000 Sigmund Velten verkauft das von seinem Vater 1820 gegründete und seit 1864 von ihm betriebene Kunstgeschäft an Carl Kellner aus Braunschweig. / Sigmund Velten
+3100 Victoria-Verlag$BVerfasser$4aut
+3010 Janke, Otto$BVerfasser$4aut
+4000 Verkauf des Moden-Journal-Verlags an A. Haack in Berlin. / Otto Janke
 4019 Geschäftsrundschreiben$Bobja
-4046 Karlsruhe
+4046 Berlin
 4060 1 Exemplar
 4105 !1059146037!
 4105 !1077661932!
 4700 |BSM|
 5560 [RNA]Korrespondenz
 5590 [Entstehungsort]
-5590 !040297136!
+5590 !040057283!
 5591 [Objektgattung]
 5591 !042993512!
-7001 23-11-22 : x
+7001 10-02-23 : x
 4800 !009033645!
 6710 !103243757X!
-7100 Bö-GR/V/91 @ m
-7109 !!DBSM/S!! ; Bö-GR/V/91
+7100 Bö-GR/V/496 @ m
+7109 !!DBSM/S!! ; Bö-GR/V/496
 	
 0500 Da
 0501 Text$btxt
@@ -36,126 +36,127 @@
 0503 Blatt$bnb
 0600 yy
 1100 1886
-1110 01.03.1886$4ezth
+1110 01.07.1886$4ezth
 1130 !040445224!
 1131 !040082407!
 1132 a1-analog;a2-druck;f1-text;f2-blatt
 1500 /1ger
 1700 /1XA-DXDE
-3100 Allgemeiner Verlag$BVerfasser$4aut
-3010 Specht, H.$BVerfasser$4aut
-4000 Eröffnung einer Verlagsbuchhandlung. / H. Specht
+3100 Deutsche Verlags-Anstalt$BVerfasser$4aut
+4000 Carl Felger scheidet als Vorstandsmitglied und Direktor aus, sein Nachfolger wird Gustav Bühl, der kollektiv mit dem Direktor Richard Schaupp oder mit einem der Prokuristen E. Mayer oder E. Büchner zeichnet. / Der Aufsichtsrat der Deutschen Verlags-Anstalt (vormals Eduard Hallberger)
 4019 Geschäftsrundschreiben$Bobja
-4046 Berlin
-4060 5 Exemplare
+4046 Stuttgart
+4060 3 Exemplare
 4105 !1059146037!
 4105 !1077661932!
+4222 Exemplar a mit eigenhändiger Unterschrift von G. Bühl. Handschriftliches Begleitschreiben an den Börsenverein vom 9. August 1886.
 4700 |BSM|
 5560 [RNA]Korrespondenz
 5590 [Entstehungsort]
-5590 !040057283!
+5590 !040582825!
 5591 [Objektgattung]
 5591 !042993512!
-7001 23-11-22 : x
+7001 10-02-23 : x
 4800 !009033645!
 6710 !103243757X!
-7100 Bö-GR/V/157 @ m
-7109 !!DBSM/S!! ; Bö-GR/V/157
+7100 Bö-GR/V/351 @ m
+7109 !!DBSM/S!! ; Bö-GR/V/351
 	
 0500 Da
 0501 Text$btxt
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1900
-1110 XX.10.1900$4ezth
+1100 1856
+1110 15.03.1856$4ezth
 1130 !040445224!
 1131 !040082407!
 1132 a1-analog;a2-druck;f1-text;f2-blatt
 1500 /1ger
 1700 /1XA-DXDE
-3100 Akademischer Verlag für sociale Wissenschaften$BVerfasser$4aut
-3010 Edelheim, John$BVerfasser$4aut
-4000 Eröffnung einer Verlagsbuchhandlung in Berlin und Bern. / Dr. John Edelheim
+3100 Verlags-Expedition der "Jahreszeiten"$BVerfasser$4aut
+3010 Fiene, Heinrich$BVerfasser$4aut
+4000 Übertragung des Debits der "Jahreszeiten" und der "Mode" an Robert Kittler in Hamburg. / Verlags-Expedition der "Jahreszeiten", H. Fiene
 4019 Geschäftsrundschreiben$Bobja
-4046 Berlin
-4060 1 Exemplar
-4105 !1059146037!
-4105 !1077661932!
-4222 Verlagsliste. Bezugs-Bedingungen.
-4700 |BSM|
-5560 [RNA]Korrespondenz
-5590 [Entstehungsort]
-5590 !040057283!
-5591 [Objektgattung]
-5591 !042993512!
-7001 23-11-22 : x
-4800 !009033645!
-6710 !103243757X!
-7100 Bö-GR/V/158 @ m
-7109 !!DBSM/S!! ; Bö-GR/V/158
-	
-0500 Da
-0501 Text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1886
-1110 XX.10.1886$4ezth
-1130 !040445224!
-1131 !040082407!
-1132 a1-analog;a2-druck;f1-text;f2-blatt
-1500 /1ger
-1700 /1XA-DXDE
-3100 Verlag der Deutschen Landwirthschaftlichen Zeitung$BVerfasser$4aut
-4000 Tritt mit dem Buchhandel in direkten Verkehr. / Verlag der Deutschen Landwirthschaftl. Zeitung
-4019 Geschäftsrundschreiben$Bobja
-4046 <NA>
+4046 Hamburg
 4060 1 Exemplar
 4105 !1059146037!
 4105 !1077661932!
 4700 |BSM|
 5560 [RNA]Korrespondenz
 5590 [Entstehungsort]
-5590 !040057283!
+5590 !040231186!
 5591 [Objektgattung]
 5591 !042993512!
-7001 23-11-22 : x
+7001 10-02-23 : x
 4800 !009033645!
 6710 !103243757X!
-7100 Bö-GR/V/203 @ m
-7109 !!DBSM/S!! ; Bö-GR/V/203
+7100 Bö-GR/V/433 @ m
+7109 !!DBSM/S!! ; Bö-GR/V/433
 	
 0500 Da
 0501 Text$btxt
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1897
-1110 01.09.1897$4ezth
+1100 1894
+1110 01.06.1894$4ezth
 1130 !040445224!
 1131 !040082407!
 1132 a1-analog;a2-druck;f1-text;f2-blatt
 1500 /1ger
 1700 /1XA-DXDE
-3100 E. Kempe$BVerfasser$4aut
-3110 Verlag der Kinder-Gartenlaube$BVerfasser$4aut
-4000 E. Kempe übernimmt den Verlag der Kinder-Gartenlaube in Nürnberg und vereinigt den Verlag mit seiner Firma in Leipzig. / E. Kempe
+3100 Max Volkening$BVerfasser$4aut
+3010 Volkening, Max$BVerfasser$4aut
+4000 Eröffnung einer Buch-, Kunst- und Musikalienhandlung nebst Antiquariat in Minden. / Max Volkening
 4019 Geschäftsrundschreiben$Bobja
 4046 Leipzig
 4060 3 Exemplare
 4105 !1059146037!
 4105 !1077661932!
-4222 Exemplar a mit eigenhändiger Unterschrift von E. Kempe.
+4222 Exemplar a mit eigenhändiger Unterschrift von Max Volkening.
 4700 |BSM|
 5560 [RNA]Korrespondenz
 5590 [Entstehungsort]
 5590 !040352064!
 5591 [Objektgattung]
 5591 !042993512!
-7001 23-11-22 : x
+7001 10-02-23 : x
 4800 !009033645!
 6710 !103243757X!
-7100 Bö-GR/V/273 @ m
-7109 !!DBSM/S!! ; Bö-GR/V/273
+7100 Bö-GR/V/680 @ m
+7109 !!DBSM/S!! ; Bö-GR/V/680
+	
+0500 Da
+0501 Text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1892
+1110 08.10.1892$4ezth
+1130 !040445224!
+1131 !040082407!
+1132 a1-analog;a2-druck;f1-text;f2-blatt
+1500 /1ger
+1700 /1XA-DXDE
+3100 Süddeutsches Verlags-Institut$BVerfasser$4aut
+3010 Dürck, Carl$BVerfasser$4aut
+4000 Dem Direktor Kuno Unrath wurde gekündigt. Geschäftsführung: Julius Müller und Ferdinand Hrbek. / Süddeutsches Verlags-Institut. Der Aufsichtsrath: Dr. Carl Dürck, Vorsitzender
+4019 Geschäftsrundschreiben$Bobja
+4046 Stuttgart
+4060 1 Exemplar
+4105 !1059146037!
+4105 !1077661932!
+4222 Mit eigenhändiger Unterschrift von J. Müller und Ferd. Hrbek.
+4700 |BSM|
+5560 [RNA]Korrespondenz
+5590 [Entstehungsort]
+5590 !040582825!
+5591 [Objektgattung]
+5591 !042993512!
+7001 10-02-23 : x
+4800 !009033645!
+6710 !103243757X!
+7100 Bö-GR/V/468 @ m
+7109 !!DBSM/S!! ; Bö-GR/V/468
 	
